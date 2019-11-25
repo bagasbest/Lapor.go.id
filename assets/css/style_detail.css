@@ -1,0 +1,33 @@
+body {
+
+	background-color: #cacaca;
+	color: #333;
+}
+
+.container {
+	width: 1000px;
+	margin: auto;
+	background-color: #fff;
+	padding: 15px;
+}
+
+.judul {
+	padding: 30px;
+	text-align: center;
+}
+
+.judul label{
+	font-size: 60px;
+	font-family: corbel, serif;
+}
+
+.detail{
+		padding: 10px;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+hr {
+	width: 100%;
+}
+
